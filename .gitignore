@@ -1,5 +1,22 @@
-# Compiled class file
-*.class
+#Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# IntelliJ
+.idea
+*.ipr
+*.iml
+*.iws
+
+# OSX
+.DS_Store
+
+# Vim
+*.swp
+*.swo
 
 # Log file
 *.log
